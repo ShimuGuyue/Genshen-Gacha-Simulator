@@ -1,8 +1,0 @@
-﻿  源.cpp
-E:\00000000000\C & C++ & C(14,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  正在生成代码
-  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  抽卡模拟器.vcxproj -> E:\00000000000\C & C++ & C#\【”有趣“的小项目】\抽卡模拟器\x64\Release\抽卡模拟器.exe
